@@ -1,0 +1,41 @@
+{
+  "name": "vstml-parser",
+  "version": "0.1.0",
+  "description": "Official parser for VSTML — Video Speech Text Markup Language. A structured markup language for AI-powered video editing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/parser.test.js"
+  },
+  "keywords": [
+    "vstml",
+    "video",
+    "markup",
+    "language",
+    "parser",
+    "ai",
+    "editing",
+    "speech",
+    "whisper",
+    "ffmpeg",
+    "timeline"
+  ],
+  "author": "ADIBOYZ32",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ADIBOYZ32/vstml-parser"
+  },
+  "homepage": "https://github.com/ADIBOYZ32/vstml-parser#readme",
+  "bugs": {
+    "url": "https://github.com/ADIBOYZ32/vstml-parser/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "index.js",
+    "src/",
+    "README.md",
+    "LICENSE"
+  ]
+}
